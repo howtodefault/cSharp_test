@@ -1,0 +1,15 @@
+/data/home/user_00/workspace/tpns-server-sdk/css/obj/Debug/netcoreapp3.1/css.csprojAssemblyReference.cache
+/data/home/user_00/workspace/tpns-server-sdk/css/obj/Debug/netcoreapp3.1/css.AssemblyInfoInputs.cache
+/data/home/user_00/workspace/tpns-server-sdk/css/obj/Debug/netcoreapp3.1/css.AssemblyInfo.cs
+/data/home/user_00/workspace/tpns-server-sdk/css/obj/Debug/netcoreapp3.1/css.csproj.CoreCompileInputs.cache
+/data/home/user_00/workspace/tpns-server-sdk/css/bin/Debug/netcoreapp3.1/css
+/data/home/user_00/workspace/tpns-server-sdk/css/bin/Debug/netcoreapp3.1/css.deps.json
+/data/home/user_00/workspace/tpns-server-sdk/css/bin/Debug/netcoreapp3.1/css.runtimeconfig.json
+/data/home/user_00/workspace/tpns-server-sdk/css/bin/Debug/netcoreapp3.1/css.runtimeconfig.dev.json
+/data/home/user_00/workspace/tpns-server-sdk/css/bin/Debug/netcoreapp3.1/css.dll
+/data/home/user_00/workspace/tpns-server-sdk/css/bin/Debug/netcoreapp3.1/css.pdb
+/data/home/user_00/workspace/tpns-server-sdk/css/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/data/home/user_00/workspace/tpns-server-sdk/css/obj/Debug/netcoreapp3.1/css.csproj.CopyComplete
+/data/home/user_00/workspace/tpns-server-sdk/css/obj/Debug/netcoreapp3.1/css.dll
+/data/home/user_00/workspace/tpns-server-sdk/css/obj/Debug/netcoreapp3.1/css.pdb
+/data/home/user_00/workspace/tpns-server-sdk/css/obj/Debug/netcoreapp3.1/css.genruntimeconfig.cache

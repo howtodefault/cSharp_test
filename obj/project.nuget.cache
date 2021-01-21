@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "N/IR0NEQXZkrekJXSnBQE8VIrs/j6H7TwmzW/CcGQb75I/wY2h53N6B3kpyVxQXDmgwaJP3eboAMDJl0K6yV1A==",
+  "success": true,
+  "projectFilePath": "/data/home/user_00/workspace/tpns-server-sdk/cs/cs.csproj",
+  "expectedPackageFiles": [
+    "/data/home/user_00/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

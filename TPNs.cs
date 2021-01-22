@@ -30,7 +30,6 @@ namespace tpns
         public const string TAG_OPERATOR_OR  = "OR";
 
         // platform type
-        public const string PLATFORM_ALL      = "all";
         public const string PLATFORM_ANDROID  = "android";
         public const string PLATFORM_IOS      = "ios";
 

@@ -414,7 +414,7 @@ namespace tpns
         public string errMsg { get; set; }
 
         [JsonProperty("push_id", NullValueHandling=NullValueHandling.Ignore)] 
-        public string pushId { get; set; }
+        public object pushId { get; set; }
 
         [JsonProperty("result", NullValueHandling=NullValueHandling.Ignore)] 
         public string result { get; set; }

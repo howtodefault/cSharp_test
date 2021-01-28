@@ -34,7 +34,7 @@
            Console.WriteLine(data);
            var stub = new Stub(123456, "abcdef", Host.Guangzhou);
            var resp = stub.Push(req);
-           Console.Write(resp.ret_code.ToString() + " " + resp.err_msg + "\n");
+           Console.Write(resp.retCode.ToString() + " " + resp.errMsg + "\n");
        }
    }
 
@@ -73,7 +73,7 @@
            Console.WriteLine(data);
            var stub = new Stub(123456, "abcdef", Host.Guangzhou);
            var resp = stub.Push(req);
-           Console.Write(resp.ret_code.ToString() + " " + resp.err_msg + "\n");
+           Console.Write(resp.retCode.ToString() + " " + resp.errMsg + "\n");
        }
    }
 
@@ -112,7 +112,7 @@
            Console.WriteLine(data);
            var stub = new Stub(123456, "abcdef", Host.Guangzhou);
            var resp = stub.Push(req);
-           Console.Write(resp.ret_code.ToString() + " " + resp.err_msg + "\n");
+           Console.Write(resp.retCode.ToString() + " " + resp.errMsg + "\n");
        }
    }
 
@@ -151,7 +151,7 @@
            Console.WriteLine(data);
            var stub = new Stub(123456, "abcdef", Host.Guangzhou);
            var resp = stub.Push(req);
-           Console.Write(resp.ret_code.ToString() + " " + resp.err_msg + "\n");
+           Console.Write(resp.retCode.ToString() + " " + resp.errMsg + "\n");
        }
    }
  
@@ -191,7 +191,7 @@
            Console.WriteLine(data);
            var stub = new Stub(123456, "abcdef", Host.Guangzhou);
            var resp = stub.Push(req);
-           Console.Write(resp.ret_code.ToString() + " " + resp.err_msg + "\n");
+           Console.Write(resp.retCode.ToString() + " " + resp.errMsg + "\n");
        }
    }
    
@@ -250,7 +250,7 @@
            Console.WriteLine(data);
            var stub = new Stub(123456, "abcdef", Host.Guangzhou);
            var resp = stub.Push(req);
-           Console.Write(resp.ret_code.ToString() + " " + resp.err_msg + "\n");
+           Console.Write(resp.retCode.ToString() + " " + resp.errMsg + "\n");
         }
    }
 

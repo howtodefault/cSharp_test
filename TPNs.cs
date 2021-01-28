@@ -144,7 +144,7 @@ namespace tpns
     class iOSMessage {
         public class Aps {
             [JsonProperty("alert", NullValueHandling=NullValueHandling.Ignore)] 
-            public string alert { get; set; }
+            public Dictionary<string, string> alert { get; set; }
 
             [JsonProperty("badge_type", NullValueHandling=NullValueHandling.Ignore)] 
             public int badgeType { get; set; } = 0;
@@ -407,8 +407,17 @@ namespace tpns
     }
 
     class Response {
-        public int ret_code { get; set; }
-        public string err_msg { get; set; }
+        [JsonProperty("ret_code", NullValueHandling=NullValueHandling.Ignore)] 
+        public int retCode { get; set; }
+
+        [JsonProperty("err_msg", NullValueHandling=NullValueHandling.Ignore)] 
+        public string errMsg { get; set; }
+
+        [JsonProperty("push_id", NullValueHandling=NullValueHandling.Ignore)] 
+        public string pushId { get; set; }
+
+        [JsonProperty("result", NullValueHandling=NullValueHandling.Ignore)] 
+        public string result { get; set; }
     }
 
     class Stub {

@@ -200,7 +200,7 @@ namespace tpns
             };
         }
 
-        public static Option AccountPushTime(int accountPushType)
+        public static Option AccountPushType(int accountPushType)
         {
             return delegate(Request req) {
                 req.accountPushType = accountPushType;

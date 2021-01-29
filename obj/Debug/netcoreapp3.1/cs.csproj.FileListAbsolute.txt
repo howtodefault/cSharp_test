@@ -13,3 +13,17 @@
 /data/home/user_00/workspace/tpns-server-sdk/cs/obj/Debug/netcoreapp3.1/cs.dll
 /data/home/user_00/workspace/tpns-server-sdk/cs/obj/Debug/netcoreapp3.1/cs.pdb
 /data/home/user_00/workspace/tpns-server-sdk/cs/obj/Debug/netcoreapp3.1/cs.genruntimeconfig.cache
+/Users/guoqingzou/v_guoqzou/cSharp/xg_cSharp/cs/bin/Debug/netcoreapp3.1/cs.deps.json
+/Users/guoqingzou/v_guoqzou/cSharp/xg_cSharp/cs/bin/Debug/netcoreapp3.1/cs.runtimeconfig.json
+/Users/guoqingzou/v_guoqzou/cSharp/xg_cSharp/cs/bin/Debug/netcoreapp3.1/cs.runtimeconfig.dev.json
+/Users/guoqingzou/v_guoqzou/cSharp/xg_cSharp/cs/bin/Debug/netcoreapp3.1/cs.dll
+/Users/guoqingzou/v_guoqzou/cSharp/xg_cSharp/cs/bin/Debug/netcoreapp3.1/cs.pdb
+/Users/guoqingzou/v_guoqzou/cSharp/xg_cSharp/cs/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/guoqingzou/v_guoqzou/cSharp/xg_cSharp/cs/obj/Debug/netcoreapp3.1/cs.csprojAssemblyReference.cache
+/Users/guoqingzou/v_guoqzou/cSharp/xg_cSharp/cs/obj/Debug/netcoreapp3.1/cs.AssemblyInfoInputs.cache
+/Users/guoqingzou/v_guoqzou/cSharp/xg_cSharp/cs/obj/Debug/netcoreapp3.1/cs.AssemblyInfo.cs
+/Users/guoqingzou/v_guoqzou/cSharp/xg_cSharp/cs/obj/Debug/netcoreapp3.1/cs.csproj.CoreCompileInputs.cache
+/Users/guoqingzou/v_guoqzou/cSharp/xg_cSharp/cs/obj/Debug/netcoreapp3.1/cs.csproj.CopyComplete
+/Users/guoqingzou/v_guoqzou/cSharp/xg_cSharp/cs/obj/Debug/netcoreapp3.1/cs.dll
+/Users/guoqingzou/v_guoqzou/cSharp/xg_cSharp/cs/obj/Debug/netcoreapp3.1/cs.pdb
+/Users/guoqingzou/v_guoqzou/cSharp/xg_cSharp/cs/obj/Debug/netcoreapp3.1/cs.genruntimeconfig.cache
